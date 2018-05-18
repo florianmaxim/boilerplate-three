@@ -1,6 +1,6 @@
 import * as THREE from 'three'
 
-console.log('hi')
+console.log('hello')
 
 var camera, scene, renderer;
 var geometry, material, mesh;
